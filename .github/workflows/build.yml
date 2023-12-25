@@ -57,4 +57,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: apk
-        path: ${{ github.workspace }}/V2rayNG/app/build/outputs/apk/debug/
+        path: ${{ github.workspace }}/V2rayNG/app/build/outputs/apk/release/
